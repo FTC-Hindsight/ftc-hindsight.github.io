@@ -1,2 +1,3 @@
-# ftc-hindsight.github.io
-Team Website
+# License
+Attribution-ShareAlike 4.0 International
+See LICENSE for more details
